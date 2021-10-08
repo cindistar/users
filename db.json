@@ -39,7 +39,7 @@
     "name": "Dennis Schulist",
     "username": "Leopoldo_Corkery",
     "email": "Karley_Dach@jasper.info",
-    "photo": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    "photo_url": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 7,
@@ -68,6 +68,5 @@
     "username": "Stanton",
     "email": "Rey.Padberg@karina.biz",
     "photo_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  }
   }
 ]
