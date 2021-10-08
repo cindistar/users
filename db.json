@@ -2,35 +2,30 @@
   {
     "id": 1,
     "name": "Leanne Graham",
-    "username": "Bret",
     "email": "Sincere@april.biz",
     "photo_url": "https://images.pexels.com/photos/9764746/pexels-photo-9764746.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
   {
     "id": 2,
     "name": "Ervin Howell",
-    "username": "Antonette",
     "email": "Shanna@melissa.tv",
     "photo_url": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 3,
     "name": "Clementine Bauch",
-    "username": "Samantha",
     "email": "Nathan@yesenia.net",
     "photo_url": "https://images.pexels.com/photos/8553943/pexels-photo-8553943.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 4,
     "name": "Patricia Lebsack",
-    "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
     "photo_url": "https://images.pexels.com/photos/6735145/pexels-photo-6735145.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 5,
     "name": "John Dietrich",
-    "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",
     "photo_url": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   }
