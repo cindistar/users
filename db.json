@@ -2,31 +2,31 @@
   {
     "id": 1,
     "name": "Leanne Graham",
-    "email": "Sincere@april.biz",
+    "email": "sincere@april.biz",
     "photo_url": "https://images.pexels.com/photos/9764746/pexels-photo-9764746.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
   {
     "id": 2,
     "name": "Ervin Howell",
-    "email": "Shanna@melissa.tv",
+    "email": "shanna@melissa.tv",
     "photo_url": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 3,
     "name": "Clementine Bauch",
-    "email": "Nathan@yesenia.net",
+    "email": "nathan@yesenia.net",
     "photo_url": "https://images.pexels.com/photos/8553943/pexels-photo-8553943.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 4,
     "name": "Patricia Lebsack",
-    "email": "Julianne.OConner@kory.org",
+    "email": "julianne.oconner@kory.org",
     "photo_url": "https://images.pexels.com/photos/6735145/pexels-photo-6735145.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 5,
     "name": "John Dietrich",
-    "email": "Lucio_Hettinger@annie.ca",
+    "email": "lucio_hettinger@annie.ca",
     "photo_url": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   }
 ]
